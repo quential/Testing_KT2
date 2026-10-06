@@ -1,6 +1,5 @@
 import csv
 
-
 def get_letter_grade(average: float) -> str:
     if average >= 95:
         return "A+"
